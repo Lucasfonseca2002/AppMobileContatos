@@ -1,4 +1,4 @@
-# AppMobileContatos
+# Aplicativo Mobile de Contatos
 
 ## Descrição
 
