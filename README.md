@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O **AppMobileContatos** é uma aplicação móvel desenvolvida como parte do Projeto Integrador de aplicações móveis da PUC Goiás. O objetivo principal deste projeto é implementar funcionalidades CRUD (Create, Read, Update, Delete) em um gestor de contatos.
+Esse aplicativo foi desenvolvido como parte do Projeto Integrador de aplicações móveis da PUC Goiás. O objetivo principal deste projeto é implementar funcionalidades CRUD (Create, Read, Update, Delete) em um gestor de contatos.
 
 ## Funcionalidades
 
